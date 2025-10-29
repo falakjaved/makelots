@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #4a90e2; /* new blue */
+  background-color: #2563eb;
   color: white;
   padding: 16px;
 }
@@ -23,7 +23,7 @@ header nav a:hover {
 }
 
 footer {
-  background-color: #4a90e2; /* new blue */
+  background-color: #1f2937;
   color: white;
   padding: 16px;
   text-align: center;
@@ -38,7 +38,7 @@ footer {
 
 .button {
   display: inline-block;
-  background-color: #f59e0b; /* amber button */
+  background-color: #2563eb;
   color: white;
   padding: 12px 24px;
   border-radius: 8px;
@@ -46,11 +46,11 @@ footer {
 }
 
 .button:hover {
-  background-color: #d97706; /* darker amber */
+  background-color: #1d4ed8;
 }
 
 .card {
-  border: 1px solid #9ca3af; /* gray border */
+  border: 1px solid #e5e7eb;
   padding: 16px;
   border-radius: 12px;
   margin-bottom: 16px;
